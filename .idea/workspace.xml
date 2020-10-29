@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42cbf5a4-792a-43f6-a773-c951e0fe6340" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven_path" />
+        <option name="mavenHome" value="E:\apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectId" id="1iltly22KpQlpRc1TmYuEkWz1dx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/changgou-parent/changgou-service-api/changgou-service-user-api/src/main/java/com/changgou/user/feign" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.changgou.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workpace\changgou\changgou-parent\changgou-service-api\changgou-service-user-api\src\main\java\com\changgou\user\feign" />
+      <recent name="F:\workpace\changgou\changgou-parent\changgou-service\changgou-service-user\src\main\java\com\changgou\conf" />
+      <recent name="F:\workpace\changgou\changgou-parent\changgou-service\changgou-service-user\src\main\resources" />
+      <recent name="F:\workpace\changgou\changgou-parent\changgou-user-oauth\src" />
+      <recent name="F:\workpace\changgou\changgou-parent\changgou-user-oauth\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.changgou.item.feign" />
+      <recent name="com.changgou.feign.item" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workpace\changgou\changgou-parent\changgou-web\changgou-web-item\src\main\resources\templates\items" />
+      <recent name="F:\workpace\changgou\changgou-parent\changgou-web\changgou-web-item\src\main\resources\static" />
+      <recent name="F:\workpace\changgou\changgou-parent\changgou-web\changgou-web-search\src\main\resources\templates" />
+      <recent name="F:\workpace\changgou\changgou-parent\changgou-web\changgou-web-search\src\main\resources\templates\pages" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="A6289163615BABB06623CD7AC334275E" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9200" />
+          <option name="urlPath" value="/user/login" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="szitheima" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="szitheima" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="A6289163615BABB06623CD7AC334275E" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:18089" />
+          <option name="urlPath" value="/user/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzY29wZSI6WyJhcHAiXSwibmFtZSI6bnVsbCwiaWQiOm51bGwsImV4cCI6MTYwMzI4MjE5MCwiYXV0aG9yaXRpZXMiOlsic2Vja2lsbF9saXN0IiwiZ29vZHNfbGlzdCJdLCJqdGkiOiJhOGY3YzQzYy04ZmFjLTQ4M2ItYmIzZi01NDljNjg0ZGJlMTUiLCJjbGllbnRfaWQiOiJjaGFuZ2dvdSIsInVzZXJuYW1lIjoic3ppdGhlaW1hIn0.CuulNv0eBgjcoiaF1V6GqEhpXZhPHkoZTRDfTluAmOxHWsD4R6LpICSMYtlf2NA0QmMZeP6WWa6gILFBE8Lw8L3Eaq1Xuo4EllI2kY7z2W3yOZIU2DFOVWrYUwMjrXXRx6QIhQuORNMi3RjG4AF2v9nRC_tffld1eopiwaP_fISNWAdmvMZ8TrEnQnuycfEqpHHQylNtwaKy12UepeQHP2W3q1Jfw4pyE6Vxidg4RbDMah6TcBK6Mj2dMKgA4b_Ct5o6eqt7JlX6BNJ09KwZjLedZ95Y80inCcVME9YU18lNsJqzNHagolKvDNgnhAVQ-nKXPTi5sfVIT-YaK5-Ncg" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="A6289163615BABB06623CD7AC334275E" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:18089" />
+          <option name="urlPath" value="/user/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzY29wZSI6WyJhcHAiXSwibmFtZSI6bnVsbCwiaWQiOm51bGwsImV4cCI6MTYwMzI4MjE5MCwiYXV0aG9yaXRpZXMiOlsic2Vja2lsbF9saXN0IiwiZ29vZHNfbGlzdCJdLCJqdGkiOiJhOGY3YzQzYy04ZmFjLTQ4M2ItYmIzZi01NDljNjg0ZGJlMTUiLCJjbGllbnRfaWQiOiJjaGFuZ2dvdSIsInVzZXJuYW1lIjoic3ppdGhlaW1hIn0.CuulNv0eBgjcoiaF1V6GqEhpXZhPHkoZTRDfTluAmOxHWsD4R6LpICSMYtlf2NA0QmMZeP6WWa6gILFBE8Lw8L3Eaq1Xuo4EllI2kY7z2W3yOZIU2DFOVWrYUwMjrXXRx6QIhQuORNMi3RjG4AF2v9nRC_tffld1eopiwaP_fISNWAdmvMZ8TrEnQnuycfEqpHHQylNtwaKy12UepeQHP2W3q1Jfw4pyE6Vxidg4RbDMah6TcBK6Mj2dMKgA4b_Ct5o6eqt7JlX6BNJ09KwZjLedZ95Y80inCcVME9YU18lNsJqzNHagolKvDNgnhAVQ-nKXPTi5sfVIT-YaK5-Ncg" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="A6289163615BABB06623CD7AC334275E" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:9200" />
+          <option name="urlPath" value="/oauth/token" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic Y2hhbmdnb3U6Y2hhbmdnb3U=" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="szitheima" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="szitheima" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID" />
+                <option name="path" value="/" />
+                <option name="value" value="8C291D9965360111C12FBA3C83D47400" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:9200" />
+          <option name="urlPath" value="/oauth/token" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Basic Y2hhbmdnb3U6Y2hhbmdnb3U=" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="szitheima" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="szitheima" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:9200" />
+          <option name="urlPath" value="/oauth/token" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="szitheima" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="szitheima" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 189 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayWebApplication">
+    <configuration name="CanalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-canal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.CanalApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-gateway-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.GatewayWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-user-oauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.OAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.UserApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.CanalApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.OAuthApplication" />
+      <item itemvalue="Spring Boot.GatewayWebApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GatewayWebApplication" />
+        <item itemvalue="Spring Boot.OAuthApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="Spring Boot.CanalApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42cbf5a4-792a-43f6-a773-c951e0fe6340" name="Default Changelist" comment="" />
+      <created>1596537761299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596537761299</updated>
+      <workItem from="1596537762459" duration="4873000" />
+      <workItem from="1596622985426" duration="2429000" />
+      <workItem from="1596625463451" duration="6320000" />
+      <workItem from="1596707325602" duration="2289000" />
+      <workItem from="1596795519354" duration="4998000" />
+      <workItem from="1596880904708" duration="649000" />
+      <workItem from="1597054254732" duration="5634000" />
+      <workItem from="1597224739056" duration="1778000" />
+      <workItem from="1597311766789" duration="5121000" />
+      <workItem from="1597408875696" duration="1097000" />
+      <workItem from="1597451393317" duration="490000" />
+      <workItem from="1597486594675" duration="5063000" />
+      <workItem from="1597632397850" duration="1697000" />
+      <workItem from="1597661923271" duration="1187000" />
+      <workItem from="1597708893799" duration="127000" />
+      <workItem from="1598263734042" duration="529000" />
+      <workItem from="1598313681446" duration="235000" />
+      <workItem from="1598350460441" duration="3847000" />
+      <workItem from="1598399581611" duration="4296000" />
+      <workItem from="1598523040899" duration="4849000" />
+      <workItem from="1598693891349" duration="2220000" />
+      <workItem from="1598872299948" duration="5076000" />
+      <workItem from="1598919803738" duration="123000" />
+      <workItem from="1598927711094" duration="7938000" />
+      <workItem from="1599041413776" duration="11639000" />
+      <workItem from="1599202041699" duration="314000" />
+      <workItem from="1599203683620" duration="546000" />
+      <workItem from="1599212373858" duration="10498000" />
+      <workItem from="1599469730991" duration="8570000" />
+      <workItem from="1599523843138" duration="1679000" />
+      <workItem from="1599705833894" duration="1228000" />
+      <workItem from="1599720169708" duration="334000" />
+      <workItem from="1600151704712" duration="5800000" />
+      <workItem from="1600161010804" duration="4239000" />
+      <workItem from="1600214752943" duration="45000" />
+      <workItem from="1600219463829" duration="210000" />
+      <workItem from="1600219697112" duration="111000" />
+      <workItem from="1600219830808" duration="194000" />
+      <workItem from="1600220048243" duration="314000" />
+      <workItem from="1600220386221" duration="370000" />
+      <workItem from="1600220775270" duration="1198000" />
+      <workItem from="1600251558373" duration="8719000" />
+      <workItem from="1600320501823" duration="37000" />
+      <workItem from="1600320561840" duration="16549000" />
+      <workItem from="1600682086157" duration="3102000" />
+      <workItem from="1600685214437" duration="510000" />
+      <workItem from="1600685750823" duration="4777000" />
+      <workItem from="1600739369272" duration="1302000" />
+      <workItem from="1600756034872" duration="126000" />
+      <workItem from="1600831174467" duration="736000" />
+      <workItem from="1600905836624" duration="1711000" />
+      <workItem from="1600915048293" duration="61000" />
+      <workItem from="1600915685332" duration="177000" />
+      <workItem from="1600939084165" duration="143000" />
+      <workItem from="1600939249560" duration="123000" />
+      <workItem from="1602494167269" duration="1276000" />
+      <workItem from="1602636244942" duration="3345000" />
+      <workItem from="1603276975353" duration="9475000" />
+      <workItem from="1603707700748" duration="6502000" />
+      <workItem from="1603794473432" duration="668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1602636349778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1602636349778" />
+    <state x="414" y="174" width="1297" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603327521703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1297" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603327521703" />
+    <state x="625" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603277283462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603277283462" />
+    <state width="1552" height="410" key="GridCell.Tab.0.bottom" timestamp="1603757090489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="410" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603757090489" />
+    <state width="1552" height="410" key="GridCell.Tab.0.center" timestamp="1603757090489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="410" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603757090489" />
+    <state width="1552" height="410" key="GridCell.Tab.0.left" timestamp="1603757090489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="410" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603757090489" />
+    <state width="1552" height="410" key="GridCell.Tab.0.right" timestamp="1603757090489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="410" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603757090489" />
+    <state width="1552" height="410" key="GridCell.Tab.1.bottom" timestamp="1603757090490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="410" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603757090490" />
+    <state width="1552" height="410" key="GridCell.Tab.1.center" timestamp="1603757090490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="410" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603757090490" />
+    <state width="1552" height="410" key="GridCell.Tab.1.left" timestamp="1603757090490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="410" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603757090490" />
+    <state width="1552" height="410" key="GridCell.Tab.1.right" timestamp="1603757090490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="410" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603757090490" />
+    <state width="1552" height="410" key="GridCell.Tab.2.bottom" timestamp="1603757090490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="410" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603757090490" />
+    <state width="1552" height="410" key="GridCell.Tab.2.center" timestamp="1603757090490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="410" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603757090490" />
+    <state width="1552" height="410" key="GridCell.Tab.2.left" timestamp="1603757090490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="410" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603757090490" />
+    <state width="1552" height="410" key="GridCell.Tab.2.right" timestamp="1603757090490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1552" height="410" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603757090490" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1603710812059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603710812059" />
+    <state x="491" y="164" width="1238" height="711" key="SettingsEditor" timestamp="1603710950201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="164" width="1238" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603710950201" />
+    <state x="313" y="158" width="1436" height="777" key="find.popup" timestamp="1603710198573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="313" y="158" width="1436" height="777" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603710198573" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.changgou.entity.Result" memberName="data" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>StringUtils.join(data,&quot;,&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tableResultSet.getString(&quot;TABLE_NAME&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
